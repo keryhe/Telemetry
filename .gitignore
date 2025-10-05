@@ -33,6 +33,9 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+!src/Keryhe.Telemetry.Server/opentelemetry/proto/logs/
+!src/Keryhe.Telemetry.Server/opentelemetry/proto/collector/logs/
+
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
